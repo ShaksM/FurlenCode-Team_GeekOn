@@ -1,0 +1,5 @@
+model/NightQManager.class
+dto/FeedObjects.class
+dao/ConnectDb.class
+dao/NightQ.class
+webService/FeedService.class
